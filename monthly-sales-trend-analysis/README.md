@@ -37,3 +37,7 @@ Analyze monthly sales performance for the last 12 complete months in the Northwi
 - November 1997 showed the largest decrease.
 - February 1998 had an opposite trend between order count and sales amount.
 - August 1997 had the same order count but a lower sales amount than the previous month.
+
+  ## Result Preview
+
+![Monthly Sales Results](monthly_sales_results.png)
