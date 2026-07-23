@@ -30,6 +30,6 @@ Identify the top customers based on total sales using the Northwind database.
 - SAVEA and ERNSH had more orders than QUICK but lower total sales.
 - QUICK has fewer orders than ERNSH and SAVEA, but generated the highest total sales. This suggests that QUICK may have purchased more expensive products, larger quantities, or received lower discounts.
 
-  ## Result Preview
+## Result Preview
 
-![Top Customers Results](top-customer-results.png)
+![Top Customers Results](top_customers_results.png)
