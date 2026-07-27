@@ -40,4 +40,4 @@ Analyze product sales performance and identify the top-selling products.
 - Total sales are influenced not only by the number of orders but also by product price and the quantity sold.
 
 ## Result Preview
-
+![Top Products Results](top_products_results.png)
