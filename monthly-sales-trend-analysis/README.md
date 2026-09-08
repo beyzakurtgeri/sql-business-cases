@@ -38,6 +38,29 @@ Analyze monthly sales performance for the last 12 complete months in the Northwi
 - February 1998 had an opposite trend between order count and sales amount.
 - August 1997 had the same order count but a lower sales amount than the previous month.
 
-  ## Result Preview
+## Result Preview
 
 ![Monthly Sales Results](monthly_sales_results.png)
+
+## Power BI Dashboard
+
+The SQL analysis was visualized in Power BI to see monthly sales and order trends.
+
+### Dashboard
+
+![Monthly Sales Trend Analysis Dashboard](monthly_sales_dashboard.png)
+
+### Dashboard Features
+
+- Monthly sales and order trends
+- Month-over-month sales and order changes
+- Total sales, total orders, and total quantity KPIs
+- Interactive Month-Year filtering
+
+### Power BI File
+
+[Download the Power BI Dashboard](monthly_sales_trend_analysis.pbix)
+
+
+
+
