@@ -31,7 +31,7 @@ This project analyzes monthly sales and order trends and month-over-month change
 
 [View Project](monthly-sales-trend-analysis)
 
-### Top Customers Analysis
+### 2. Top Customers Analysis
 
 This project identifies the company's most valuable customers based on total sales using SQL on the Northwind database.
 
@@ -44,7 +44,7 @@ This project identifies the company's most valuable customers based on total sal
 
 [View Project](top-customers-analysis)
 
-### Top Products Analysis
+### 3. Top Products Analysis
 
 This project analyzes product sales performance and identifies the top-selling products using SQL on the Northwind database.
 
