@@ -19,7 +19,7 @@ In each project, I will solve business problems, analyze data, and generate mean
 
 ## Projects
 
-### Monthly Sales Trend Analysis
+### 1. Monthly Sales Trend Analysis
 
 This project analyzes monthly sales and order trends and month-over-month changes using SQL on the Northwind database, with the results visualized in Power BI dashboard.
 
